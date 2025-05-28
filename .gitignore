@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# SwiftPM
+.build/
+.swiftpm/xcode/
+Package.resolved
+
+# VSCode
+.vscode/
+
+# Archives & temporary
+*.zip
+*.tar.gz
+*.tmp
+*~
