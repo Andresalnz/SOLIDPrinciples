@@ -1,12 +1,12 @@
 # Principios SOLID
 
-Este repositorio contiene ejemplos "buenos" que cumplen los principios solid y otros ejemplos "malos" que no los cumplen para ayudar a los desarrolladores a entender, identificar y applicar correctamente estos principios en sus proyectos.
+Este repositorio contiene ejemplos "buenos" que cumplen los principios **SOLID** y otros ejemplos "malos" que no los cumplen, para ayudar a los desarrolladores a entender, identificar y aplicar correctamente estos principios en sus proyectos.
 
-Esta dividido por lenguajes y, a su vez, dentro de cada carpeta, que identifica al lenguaje, esta dividido por cada principio.
+Está dividido por lenguajes y, a su vez, dentro de cada carpeta, que identifica al lenguaje, está dividido por cada principio.
 
 ## 📚 SOLID
 
-**SOLID** es un acrónimo que representa cinco principios fundamentales de la programación orientada a objetos y diseño de software:
+**SOLID** es un acrónimo que representa cinco principios fundamentales del diseño de software y la programación orientada a objetos:
 
 1. **S** – Single Responsibility Principle (SRP)
 2. **O** – Open/Closed Principle (OCP)
@@ -43,7 +43,7 @@ swift/
 
 ## 🤝 Contribuciones
 
-Este proyecto está abierto a contribuciones. El objetivo es que otros desarrolladores agreguen ejemplos de los principios SOLID en otros lenguajes de programación. La idea es que este repositorio sea como una guía practica para consultar como aplicar estos principios.
+Este proyecto está abierto a contribuciones. El objetivo es que otros desarrolladores agreguen ejemplos de los principios SOLID en distintos lenguajes de programación. La idea es que este repositorio sea como una guía practica para consultar cómo aplicar estos principios.
 
 ### ➕ Cómo contribuir
 
