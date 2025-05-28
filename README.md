@@ -41,7 +41,7 @@ swift/
   - `Siglas del principio_lenguaje_Bad (SRP_Swift_Bad)`: Ejemplo que **no cumple** el principio.
   - `Siglas del principio_lenguaje_Good (SRP_Swift_Good)`: Ejemplo que **aplica correctamente** el principio.
 
-## Contribuciones
+## 🤝 Contribuciones
 
 Este proyecto está abierto a contribuciones. El objetivo es que otros desarrolladores agreguen ejemplos de los principios SOLID en otros lenguajes de programación. La idea es que este repositorio sea como una guía practica para consultar como aplicar estos principios.
 
