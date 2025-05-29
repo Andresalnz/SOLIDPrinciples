@@ -48,11 +48,11 @@ Este proyecto está abierto a contribuciones. El objetivo es que otros desarroll
 ### ➕ Cómo contribuir
 
 1. Haz un fork del Proyecto
-2. Clona tu fork `(git clone <URL del fork>)`
-3. Añade el repositorio original como remoto `(git remote add upstream <URL del repositorio original>)`
-4. Crea tu Rama de Funcionalidad `(git switch -c feature/nombre-lenguaje)`
-5. Realiza tus Cambios `(git commit -m 'Add: Python')`
-6. Haz Push a la Rama `(git push origin feature/nombre-lenguaje)`
+2. Clona tu fork `git clone <URL del fork>`
+3. Añade el repositorio original como remoto `git remote add upstream <URL del repositorio original>`
+4. Crea tu Rama de Funcionalidad `git switch -c feature/nombre-lenguaje`
+5. Realiza tus Cambios `git commit -m 'Add: Python'`
+6. Haz Push a la Rama `git push origin feature/nombre-lenguaje`
 7. Abre una pull request hacía **main**
 
 ### 📌 Convención de nombres:
